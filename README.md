@@ -1,4 +1,4 @@
-# This is a multipage website template that serves a static webpages, using node and express.
+# This is a multipage website template that serves static webpages, using node and express.
 
 ## usage
 
