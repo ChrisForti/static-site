@@ -1,4 +1,4 @@
-# This is a bootstrapped website that serves a static page, using node and express.
+# This is a multipage website template that serves a static webpages, using node and express.
 
 ## usage
 
