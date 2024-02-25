@@ -2,6 +2,10 @@ const express = require("express");
 
 const app = express();
 
+app.get("/api", (req, res) => {
+  res.json("HTTP request recieved");
+});
+
 app.use(express.static("public"));
 
 app.use((req, res) => {
