@@ -6,7 +6,7 @@ app.get("/api", (req, res) => {
   res.json("HTTP request recieved");
 });
 
-app.use(express.static("public"));
+app.use(express.static("docs"));
 
 app.use((req, res) => {
   res.status(404);
