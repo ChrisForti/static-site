@@ -6,7 +6,7 @@
 
 /* BG */
 
-	body.is-preload #bg:before {
+	body.is-preload #bg::after {
 		background-color: transparent;
 	}
 
