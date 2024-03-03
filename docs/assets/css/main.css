@@ -1,4 +1,4 @@
-@import url("/docs/images/sunsettrip.jpg");
+@import url();
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
@@ -24,6 +24,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+	
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
