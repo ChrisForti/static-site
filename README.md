@@ -1,15 +1,21 @@
-# This is a multipage website template that serves static webpages, using node and express.
+# about
+
+This repository is a simple static site, with an api endpoint, and full CI/CD pipeline. The context is an all wood paddleboard board company. Aiming for a high end, custom market
 
 ## usage
 
-To run dev use:
+To run locally open your terminal:
 `node app.js`
+Or navigate to your browser, and enter this url for the website:
+`https://chrisforti.github.io/static-site/`
+Enter this url for the api:
+`https://chrisforti.github.io/static-site/api`
 
-### Built With
+## built with
 
-<p> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" hspace="5px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" hspace="5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" hspace="5px"/>
-
+<p>
+  <i class="devicon-css3-plain"></i>
+  <i class="devicon-html5-plain"></i>
+  <i class="devicon-javascript-plain"></i>
+  <i class="devicon-jquery-plain"></i>
 </p>
