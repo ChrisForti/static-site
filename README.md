@@ -1,8 +1,8 @@
-# about
+# About
 
 This repository is a simple static site, with an api endpoint, and full CI/CD pipeline. The context is an all wood paddleboard board company. Aiming for a high end, custom market
 
-## usage
+## Usage
 
 To run locally open your terminal:
 `node app.js`
@@ -11,7 +11,7 @@ Or navigate to your browser, and enter this url for the website:
 Enter this url for the api:
 `https://chrisforti.github.io/static-site/api`
 
-## built with
+#### Built with
 
 <p>
   <i class="devicon-css3-plain"></i>
